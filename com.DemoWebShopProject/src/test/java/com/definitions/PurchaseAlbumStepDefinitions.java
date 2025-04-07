@@ -4,7 +4,12 @@ import com.actions.LoginActions;
 import com.actions.PurchaseAlbumActions;
 import com.utils.HelperClass;
 
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
+
+import java.util.List;
+import java.util.Map;
+
 import org.testng.Assert;
 
 public class PurchaseAlbumStepDefinitions {
@@ -32,9 +37,18 @@ public class PurchaseAlbumStepDefinitions {
         boolean isPresent = purchaseAlbumActions.verifyProductInCart(productName);
         Assert.assertTrue(isPresent, "Product not found in cart!");
     }
-
-    @Then("User logs out")
-    public void user_logs_out() {
-        purchaseAlbumActions.logout();
+    
+    @When("User logs in using credentials")
+    public void user_logs_in_using_credentials(DataTable dataTable) {
+        List<Map<String, String>> credentials = dataTable.asMaps(String.class, String.class);
+        String email = credentials.get(0).get("email");
+        String password = credentials.get(0).get("password");
+        loginActions.performLogin(email, password);
     }
-}
+
+    
+//    @Then("User logs out")
+//    public void user_logs_out() {
+//        purchaseAlbumActions.logout();
+    }
+

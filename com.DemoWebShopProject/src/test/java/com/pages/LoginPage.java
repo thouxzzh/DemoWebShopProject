@@ -88,18 +88,6 @@ public class LoginPage {
         driver.findElement(loginButton).click();
     }
 
-//    public boolean validateLogin(String expectedMessage) {
-//        try {
-//            if (expectedMessage.equalsIgnoreCase("Login passed")) {
-//                // Check if "My account" link is displayed
-//                return driver.findElement(myAccountLink).isDisplayed();
-//            } else {
-//                // Check if error message is displayed
-//                return driver.findElement(errorMessage).isDisplayed();
-//            }
-//        } catch (Exception e) {
-//            return false;
-//        }
     
     public boolean validateLogin(String expectedMessage) {
         try {

@@ -1,0 +1,208 @@
+2025-04-07 16:38:10 [main] INFO : LoginActions initialized
+2025-04-07 16:38:33 [main] INFO : LoginActions initialized
+2025-04-07 16:38:40 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:38:40 [main] INFO : Clicking on login link
+2025-04-07 16:38:40 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:38:40 [main] INFO : Entering password
+2025-04-07 16:38:40 [main] INFO : Clicking on login button
+2025-04-07 16:38:41 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:38:41 [main] INFO : Login validation successful
+2025-04-07 16:38:42 [main] INFO : LoginActions initialized
+2025-04-07 16:38:46 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:38:46 [main] INFO : Clicking on login link
+2025-04-07 16:38:46 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:38:46 [main] INFO : Entering password
+2025-04-07 16:38:46 [main] INFO : Clicking on login button
+2025-04-07 16:38:47 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:38:47 [main] INFO : Login validation successful
+2025-04-07 16:38:48 [main] INFO : LoginActions initialized
+2025-04-07 16:38:52 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:38:52 [main] INFO : Clicking on login link
+2025-04-07 16:38:52 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:38:52 [main] INFO : Entering password
+2025-04-07 16:38:52 [main] INFO : Clicking on login button
+2025-04-07 16:40:24 [main] INFO : LoginActions initialized
+2025-04-07 16:40:33 [main] INFO : LoginActions initialized
+2025-04-07 16:40:36 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:40:36 [main] INFO : Clicking on login link
+2025-04-07 16:40:37 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:40:37 [main] INFO : Entering password
+2025-04-07 16:40:37 [main] INFO : Clicking on login button
+2025-04-07 16:40:38 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:40:38 [main] INFO : Login validation successful
+2025-04-07 16:40:39 [main] INFO : LoginActions initialized
+2025-04-07 16:40:43 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:40:43 [main] INFO : Clicking on login link
+2025-04-07 16:40:44 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:40:44 [main] INFO : Entering password
+2025-04-07 16:40:44 [main] INFO : Clicking on login button
+2025-04-07 16:40:44 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:40:44 [main] INFO : Login validation successful
+2025-04-07 16:40:45 [main] INFO : LoginActions initialized
+2025-04-07 16:40:53 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:40:53 [main] INFO : Clicking on login link
+2025-04-07 16:40:53 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:40:53 [main] INFO : Entering password
+2025-04-07 16:40:53 [main] INFO : Clicking on login button
+2025-04-07 16:44:17 [main] INFO : LoginActions initialized
+2025-04-07 16:44:27 [main] INFO : LoginActions initialized
+2025-04-07 16:44:31 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:44:31 [main] INFO : Clicking on login link
+2025-04-07 16:44:31 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:44:31 [main] INFO : Entering password
+2025-04-07 16:44:31 [main] INFO : Clicking on login button
+2025-04-07 16:44:31 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:44:32 [main] INFO : Login validation successful
+2025-04-07 16:44:33 [main] INFO : LoginActions initialized
+2025-04-07 16:44:38 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:44:38 [main] INFO : Clicking on login link
+2025-04-07 16:44:38 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:44:38 [main] INFO : Entering password
+2025-04-07 16:44:38 [main] INFO : Clicking on login button
+2025-04-07 16:44:39 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:44:39 [main] INFO : Login validation successful
+2025-04-07 16:44:40 [main] INFO : LoginActions initialized
+2025-04-07 16:44:44 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:44:44 [main] INFO : Clicking on login link
+2025-04-07 16:44:44 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:44:44 [main] INFO : Entering password
+2025-04-07 16:44:45 [main] INFO : Clicking on login button
+2025-04-07 16:44:45 [main] INFO : Navigating to Digital Downloads section.
+2025-04-07 16:45:10 [main] INFO : LoginActions initialized
+2025-04-07 16:45:19 [main] INFO : LoginActions initialized
+2025-04-07 16:45:26 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:45:26 [main] INFO : Clicking on login link
+2025-04-07 16:45:27 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:45:27 [main] INFO : Entering password
+2025-04-07 16:45:27 [main] INFO : Clicking on login button
+2025-04-07 16:45:27 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:45:28 [main] ERROR: Login validation failed
+2025-04-07 16:45:29 [main] INFO : LoginActions initialized
+2025-04-07 16:45:35 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:45:35 [main] INFO : Clicking on login link
+2025-04-07 16:45:35 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:45:35 [main] INFO : Entering password
+2025-04-07 16:45:35 [main] INFO : Clicking on login button
+2025-04-07 16:45:35 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:45:36 [main] INFO : Login validation successful
+2025-04-07 16:45:37 [main] INFO : LoginActions initialized
+2025-04-07 16:45:42 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:45:42 [main] INFO : Clicking on login link
+2025-04-07 16:45:43 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:45:43 [main] INFO : Entering password
+2025-04-07 16:45:43 [main] INFO : Clicking on login button
+2025-04-07 16:45:43 [main] INFO : Navigating to Digital Downloads section.
+2025-04-07 16:45:45 [main] INFO : Adding album '3rd Album' to the cart.
+2025-04-07 16:45:45 [main] INFO : Navigating to the Shopping Cart.
+2025-04-07 16:45:45 [main] INFO : Verifying if album '3rd Album' is present in the cart.
+2025-04-07 16:45:46 [main] INFO : Album presence in cart: true
+2025-04-07 16:46:04 [main] INFO : LoginActions initialized
+2025-04-07 16:46:28 [main] INFO : LoginActions initialized
+2025-04-07 16:46:34 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:46:34 [main] INFO : Clicking on login link
+2025-04-07 16:46:35 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:46:35 [main] INFO : Entering password
+2025-04-07 16:46:35 [main] INFO : Clicking on login button
+2025-04-07 16:46:35 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:46:36 [main] INFO : Login validation successful
+2025-04-07 16:46:37 [main] INFO : LoginActions initialized
+2025-04-07 16:46:41 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:46:41 [main] INFO : Clicking on login link
+2025-04-07 16:46:41 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:46:41 [main] INFO : Entering password
+2025-04-07 16:46:41 [main] INFO : Clicking on login button
+2025-04-07 16:46:41 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:46:42 [main] INFO : Login validation successful
+2025-04-07 16:46:43 [main] INFO : LoginActions initialized
+2025-04-07 16:46:47 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:46:47 [main] INFO : Clicking on login link
+2025-04-07 16:46:47 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:46:47 [main] INFO : Entering password
+2025-04-07 16:46:47 [main] INFO : Clicking on login button
+2025-04-07 16:46:48 [main] INFO : Navigating to Digital Downloads section.
+2025-04-07 16:46:49 [main] INFO : Adding album '3rd Album' to the cart.
+2025-04-07 16:46:49 [main] INFO : Navigating to the Shopping Cart.
+2025-04-07 16:46:50 [main] INFO : Verifying if album '3rd Album' is present in the cart.
+2025-04-07 16:46:50 [main] INFO : Album presence in cart: true
+2025-04-07 16:47:04 [main] INFO : LoginActions initialized
+2025-04-07 16:47:12 [main] INFO : LoginActions initialized
+2025-04-07 16:47:17 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:47:17 [main] INFO : Clicking on login link
+2025-04-07 16:47:18 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:47:18 [main] INFO : Entering password
+2025-04-07 16:47:18 [main] INFO : Clicking on login button
+2025-04-07 16:47:18 [main] INFO : Validating login status, expecting: Login passed
+2025-04-07 16:47:19 [main] INFO : Login validation successful
+2025-04-07 16:47:20 [main] INFO : LoginActions initialized
+2025-04-07 16:47:26 [main] INFO : Performing login with email: demo@example.com
+2025-04-07 16:47:26 [main] INFO : Clicking on login link
+2025-04-07 16:47:26 [main] INFO : Entering email: demo@example.com
+2025-04-07 16:47:26 [main] INFO : Entering password
+2025-04-07 16:47:26 [main] INFO : Clicking on login button
+2025-04-07 16:47:26 [main] INFO : Validating login status, expecting: Login failed
+2025-04-07 16:47:27 [main] INFO : Login validation successful
+2025-04-07 16:47:27 [main] INFO : LoginActions initialized
+2025-04-07 16:47:31 [main] INFO : Performing login with email: 2k21dhar@gmail.com
+2025-04-07 16:47:31 [main] INFO : Clicking on login link
+2025-04-07 16:47:32 [main] INFO : Entering email: 2k21dhar@gmail.com
+2025-04-07 16:47:32 [main] INFO : Entering password
+2025-04-07 16:47:32 [main] INFO : Clicking on login button
+2025-04-07 16:47:32 [main] INFO : Navigating to Digital Downloads section.
+2025-04-07 16:56:51 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 16:56:55 [main] INFO : Attempting login with Email and Password
+2025-04-07 16:56:56 [main] INFO : Verifying login message
+2025-04-07 16:56:56 [main] INFO : Login test passed with expected message
+2025-04-07 16:56:57 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 16:57:01 [main] INFO : Attempting login with Email and Password
+2025-04-07 16:57:02 [main] INFO : Verifying login message
+2025-04-07 16:57:02 [main] INFO : Login test passed with expected message
+2025-04-07 17:03:02 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:03:08 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:03:08 [main] INFO : Verifying login message
+2025-04-07 17:03:09 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:03:13 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:03:14 [main] INFO : Verifying login message
+2025-04-07 17:03:14 [main] INFO : Login test passed with expected message
+2025-04-07 17:03:56 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:04:00 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:04:02 [main] INFO : Verifying login message
+2025-04-07 17:04:02 [main] INFO : Login test passed with expected message
+2025-04-07 17:04:03 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:04:07 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:04:07 [main] INFO : Verifying login message
+2025-04-07 17:04:08 [main] INFO : Login test passed with expected message
+2025-04-07 17:04:59 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:05:03 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:05:05 [main] INFO : Verifying login message
+2025-04-07 17:05:05 [main] INFO : Login test passed with expected message
+2025-04-07 17:05:06 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:05:10 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:05:11 [main] INFO : Verifying login message
+2025-04-07 17:05:11 [main] INFO : Login test passed with expected message
+2025-04-07 17:13:34 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:13:40 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:13:40 [main] INFO : Verifying login message
+2025-04-07 17:13:41 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:13:46 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:13:46 [main] INFO : Verifying login message
+2025-04-07 17:13:46 [main] INFO : Login test passed with expected message
+2025-04-07 17:14:36 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:14:41 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:14:41 [main] INFO : Verifying login message
+2025-04-07 17:14:42 [main] INFO : Login test passed with expected message
+2025-04-07 17:14:43 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:14:49 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:14:50 [main] INFO : Verifying login message
+2025-04-07 17:14:50 [main] INFO : Login test passed with expected message
+2025-04-07 17:16:01 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:16:02 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:16:03 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:16:05 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:18:56 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:19:00 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:19:01 [main] INFO : Verifying login message
+2025-04-07 17:19:02 [main] INFO : Login test passed with expected message
+2025-04-07 17:19:02 [main] INFO : Opening the Demo Web Shop application
+2025-04-07 17:19:07 [main] INFO : Attempting login with Email and Password
+2025-04-07 17:19:08 [main] INFO : Verifying login message
+2025-04-07 17:19:08 [main] INFO : Login test passed with expected message

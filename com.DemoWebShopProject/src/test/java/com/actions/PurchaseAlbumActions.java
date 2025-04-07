@@ -20,8 +20,11 @@ public class PurchaseAlbumActions {
     public boolean verifyProductInCart(String albumName) {
         return purchaseAlbumPage.isProductInCart(albumName);
     }
-
-    public void logout() {
-        purchaseAlbumPage.clickLogout();
-    }
 }
+////    public void logout() {
+////        purchaseAlbumPage.clickLogout();
+//    }
+//
+
+
+
