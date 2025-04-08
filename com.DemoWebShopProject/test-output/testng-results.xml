@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-07T17:18:42 IST" name="Suite" finished-at="2025-04-07T17:19:21 IST" duration-ms="39110">
+  <suite started-at="2025-04-08T10:14:28 IST" name="Default suite" finished-at="2025-04-08T10:15:13 IST" duration-ms="44896">
     <groups>
       <group name="cucumber">
-        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@5aebe890]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2025-04-07T17:18:42 IST" name="Test" finished-at="2025-04-07T17:19:21 IST" duration-ms="39110">
+    <test started-at="2025-04-08T10:14:28 IST" name="Default test" finished-at="2025-04-08T10:15:13 IST" duration-ms="44896">
       <class name="com.runner.RunnerFile">
-        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:18:42 IST" name="setUpClass" finished-at="2025-04-07T17:18:42 IST" duration-ms="507" status="PASS">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:14:28 IST" name="setUpClass" finished-at="2025-04-08T10:14:29 IST" duration-ms="732" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@726ef6aa]]>
+                <![CDATA[org.testng.TestRunner@61c58320]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:18:42 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-07T17:18:55 IST" duration-ms="12849" status="FAIL">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:14:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T10:14:44 IST" duration-ms="14769" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -34,18 +34,10 @@
               </value>
             </param>
           </params>
-          <exception class="java.lang.AssertionError">
-            <full-stacktrace>
-              <![CDATA[java.lang.AssertionError
-at com.definitions.WishlistDefinitions.the_product_should_be_present_in_the_wishlist(WishlistDefinitions.java:47)
-at ✽.the product "3rd Album" should be present in the wishlist(file:///C:/Users/thous/git/DemoWebShopProject/com.DemoWebShopProject/src/test/resources/AddToWishlist.feature:8)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:18:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-07T17:19:02 IST" duration-ms="6425" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:14:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T10:14:51 IST" duration-ms="7617" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,7 +53,7 @@ at ✽.the product "3rd Album" should be present in the wishlist(file:///C:/User
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:19:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-07T17:19:08 IST" duration-ms="6714" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:14:51 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T10:15:00 IST" duration-ms="8888" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -77,7 +69,7 @@ at ✽.the product "3rd Album" should be present in the wishlist(file:///C:/User
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:19:08 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-07T17:19:19 IST" duration-ms="10385" status="PASS">
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:15:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T10:15:09 IST" duration-ms="9099" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -93,11 +85,11 @@ at ✽.the product "3rd Album" should be present in the wishlist(file:///C:/User
           <reporter-output>
           </reporter-output>
         </test-method> <!-- runScenario -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runner.RunnerFile@5aebe890]" started-at="2025-04-07T17:19:19 IST" name="tearDownClass" finished-at="2025-04-07T17:19:21 IST" duration-ms="2198" status="PASS">
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runner.RunnerFile@76f2bbc1]" started-at="2025-04-08T10:15:09 IST" name="tearDownClass" finished-at="2025-04-08T10:15:13 IST" duration-ms="3726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
       </class> <!-- com.runner.RunnerFile -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

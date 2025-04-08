@@ -1,3 +1,4 @@
+
 package com.actions;
 
 import com.pages.LoginPage;
@@ -38,7 +39,3 @@ public class LoginActions {
         return loginPage.validateLogin(expectedStatus);
     }
 }
-
-
-
-

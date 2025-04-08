@@ -48,9 +48,4 @@ public class PurchaseAlbumPage {
         }
         return false;
     }
-
-//    public void clickLogout() {
-//        driver.findElement(logoutLink).click();
-//    }
 }
-

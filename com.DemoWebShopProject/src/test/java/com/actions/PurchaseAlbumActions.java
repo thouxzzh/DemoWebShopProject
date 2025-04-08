@@ -1,3 +1,4 @@
+
 package com.actions;
 
 import com.pages.PurchaseAlbumPage;
@@ -25,6 +26,3 @@ public class PurchaseAlbumActions {
 ////        purchaseAlbumPage.clickLogout();
 //    }
 //
-
-
-

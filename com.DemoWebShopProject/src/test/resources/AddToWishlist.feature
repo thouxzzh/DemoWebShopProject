@@ -6,4 +6,5 @@ Feature: Add a product to the wishlist
     When user logs in with credentials from "TestData" sheet and row 1
     And user navigates to Digital Downloads and adds "3rd Album" to the wishlist
    Then the product "3rd Album" should be present in the wishlist
-    #And user logs out
+   And click Email a friend 
+   And click send email button

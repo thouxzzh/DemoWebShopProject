@@ -46,9 +46,4 @@ public class PurchaseAlbumStepDefinitions {
         loginActions.performLogin(email, password);
     }
 
-    
-//    @Then("User logs out")
-//    public void user_logs_out() {
-//        purchaseAlbumActions.logout();
-    }
-
+       }
